@@ -6,6 +6,10 @@ body {
   gap: 80px;
 }
 
+*{
+  user-select: none;;
+}
+
 .reload {
   background-color: #0aa5f3;
   color: #fff;
